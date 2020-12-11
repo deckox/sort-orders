@@ -14,7 +14,7 @@ public class CarrinhoDeCompras
   }
 }
 ```
-Um Produto é compos por nome e preço (que pode ter casa decimais) como no código abaixo:
+Um Produto é compos por nome e preço em decimal como no código abaixo:
 ```c#
 carrinho.Adiciona(new Produto("Geladeira", 450.0));
 ```
