@@ -44,7 +44,7 @@ A classe MaiorEMenor deve ser capaz de retorna os nomes corretamente para os seg
 * Vários produtos no carrinho ordenados em ordem crescente
 * Vários produtos no carrinho ordenados em ordem decrescente
 
-## Desejavél
+## Desejável
 
 - [ ] Criar os testes unitários para validar os 4 cenários
 - [ ] Receber a lista através do prompt de comando
