@@ -48,6 +48,7 @@ A classe MaiorEMenor deve ser capaz de retorna os nomes corretamente para os seg
 
 - [ ] Criar os testes unitários para validar os 4 cenários
 - [ ] Receber a lista através do prompt de comando
+- [ ] Utilizar os princípios do SOLID aplicáveis 
 
 ## Instruções gerais
 * Faça um fork desse repositório e efetue um pull request para entrega.
