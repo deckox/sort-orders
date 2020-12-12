@@ -51,6 +51,6 @@ A classe MaiorEMenor deve ser capaz de retorna os nomes corretamente para os seg
 - [ ] Utilizar os princípios do SOLID aplicáveis 
 
 ## Instruções gerais
-* Antes de iniciar o desenvolvimento informe via e-mail quando irá entregar a solução.
-* Faça um fork desse repositório e efetue um pull request para entrega.
+* Antes de iniciar o desenvolvimento informe via e-mail quando irá entregar a solução;
+* Faça um fork desse repositório e efetue um pull request para entrega;
 * Crie um setup.md informando todos os passos para configuração, execução e validação da aplicação.
