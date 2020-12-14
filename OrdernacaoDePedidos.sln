@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1145
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste de ordenação de pedidos", "Teste de ordenação de pedidos\Teste de ordenação de pedidos.csproj", "{2AA35C25-3BA6-4C6C-8B7E-AA73C98701B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenacaoDePedidos", "Teste de ordenação de pedidos\OrdenacaoDePedidos.csproj", "{2AA35C25-3BA6-4C6C-8B7E-AA73C98701B5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste de ordenação de pedidos.Testes", "Teste de ordenação de pedidos.Testes\Teste de ordenação de pedidos.Testes.csproj", "{3CDC4649-D8D6-43C7-B425-85CFCCB3D943}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrdenacaoDePedidos.Testes", "Teste de ordenação de pedidos.Testes\OrdenacaoDePedidos.Testes.csproj", "{3CDC4649-D8D6-43C7-B425-85CFCCB3D943}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testes", "Testes", "{7BE4AA50-56A0-47FF-AFA4-C077249F07F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projeto", "Projeto", "{88FEA864-CAC7-4072-8C75-1C4C50C3CEDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,6 +28,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2AA35C25-3BA6-4C6C-8B7E-AA73C98701B5} = {88FEA864-CAC7-4072-8C75-1C4C50C3CEDB}
+		{3CDC4649-D8D6-43C7-B425-85CFCCB3D943} = {7BE4AA50-56A0-47FF-AFA4-C077249F07F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E1A9DDD4-5B38-41A3-A08E-DF6AB9DF9D52}

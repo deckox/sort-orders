@@ -1028,13 +1028,13 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Teste de ordenação de pedidos/1.0.0": {
+      "OrdenacaoDePedidos/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/Teste de ordenação de pedidos.dll": {}
+          "bin/placeholder/OrdenacaoDePedidos.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Teste de ordenação de pedidos.dll": {}
+          "bin/placeholder/OrdenacaoDePedidos.dll": {}
         }
       }
     }
@@ -3918,10 +3918,10 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Teste de ordenação de pedidos/1.0.0": {
+    "OrdenacaoDePedidos/1.0.0": {
       "type": "project",
-      "path": "../Teste de ordenação de pedidos/Teste de ordenação de pedidos.csproj",
-      "msbuildProject": "../Teste de ordenação de pedidos/Teste de ordenação de pedidos.csproj"
+      "path": "../Teste de ordenação de pedidos/OrdenacaoDePedidos.csproj",
+      "msbuildProject": "../Teste de ordenação de pedidos/OrdenacaoDePedidos.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3929,7 +3929,7 @@
       "Microsoft.NET.Test.Sdk >= 16.4.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "NUnit3TestAdapter >= 4.0.0-beta.1",
-      "Teste de ordenação de pedidos >= 1.0.0",
+      "OrdenacaoDePedidos >= 1.0.0",
       "nunit >= 3.12.0"
     ]
   },
@@ -3940,11 +3940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akimura\\Dropbox\\Foursys\\Teste de ordenação de pedidos\\Teste de ordenação de pedidos.Testes\\Teste de ordenação de pedidos.Testes.csproj",
-      "projectName": "Teste de ordenação de pedidos.Testes",
-      "projectPath": "C:\\Users\\akimura\\Dropbox\\Foursys\\Teste de ordenação de pedidos\\Teste de ordenação de pedidos.Testes\\Teste de ordenação de pedidos.Testes.csproj",
+      "projectUniqueName": "C:\\workspace\\sort-orders\\Teste de ordenação de pedidos.Testes\\OrdenacaoDePedidos.Testes.csproj",
+      "projectName": "OrdenacaoDePedidos.Testes",
+      "projectPath": "C:\\workspace\\sort-orders\\Teste de ordenação de pedidos.Testes\\OrdenacaoDePedidos.Testes.csproj",
       "packagesPath": "C:\\Users\\akimura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akimura\\Dropbox\\Foursys\\Teste de ordenação de pedidos\\Teste de ordenação de pedidos.Testes\\obj\\",
+      "outputPath": "C:\\workspace\\sort-orders\\Teste de ordenação de pedidos.Testes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3964,8 +3964,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\akimura\\Dropbox\\Foursys\\Teste de ordenação de pedidos\\Teste de ordenação de pedidos\\Teste de ordenação de pedidos.csproj": {
-              "projectPath": "C:\\Users\\akimura\\Dropbox\\Foursys\\Teste de ordenação de pedidos\\Teste de ordenação de pedidos\\Teste de ordenação de pedidos.csproj"
+            "C:\\workspace\\sort-orders\\Teste de ordenação de pedidos\\OrdenacaoDePedidos.csproj": {
+              "projectPath": "C:\\workspace\\sort-orders\\Teste de ordenação de pedidos\\OrdenacaoDePedidos.csproj"
             }
           }
         }

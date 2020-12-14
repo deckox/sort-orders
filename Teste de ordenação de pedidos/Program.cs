@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Teste_de_ordenação_de_pedidos
 {
@@ -39,8 +35,8 @@ namespace Teste_de_ordenação_de_pedidos
             MaiorEMenor algoritmo = new MaiorEMenor();
             algoritmo.Encontra(carrinho);
 
-            Console.WriteLine("O menor produto: " + algoritmo.Menor.nome);
-            Console.WriteLine("O maior produto: " + algoritmo.Maior.nome);
+            Console.WriteLine("O menor produto: " + algoritmo.Menor.Nome);
+            Console.WriteLine("O maior produto: " + algoritmo.Maior.Nome);
             Console.ReadLine();
         }
     }

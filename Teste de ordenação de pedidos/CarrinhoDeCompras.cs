@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Teste_de_ordenação_de_pedidos
 {
@@ -20,14 +18,14 @@ namespace Teste_de_ordenação_de_pedidos
 
     public class MaiorEMenor  
     {
-        public Produto Menor;
-        public Produto Maior;
+        public Produto Menor { get; set; }
+        public Produto Maior { get; set; }
 
         public void Encontra(CarrinhoDeCompras carrinho)
         {
             try
             {
-                var ordenado = carrinho.lista.OrderBy(_ => _.preco);
+                var ordenado = carrinho.lista.OrderBy(_ => _.Preco);
                 Menor = ordenado.First();
                 Maior = ordenado.Last();
             }
@@ -43,13 +41,13 @@ namespace Teste_de_ordenação_de_pedidos
 
     public class Produto
     {
-        public string nome;
-        public decimal preco;
+        public string Nome { get; set; }
+        public decimal Preco { get; set; }
 
         public Produto(string nome, decimal preco)
         {
-            this.nome = nome;
-            this.preco = preco;
+            this.Nome = nome;
+            this.Preco = preco;
         }
     }
 }

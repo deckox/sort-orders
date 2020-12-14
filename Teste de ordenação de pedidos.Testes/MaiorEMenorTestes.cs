@@ -1,8 +1,5 @@
 ﻿using NUnit.Framework;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+
 
 namespace Teste_de_ordenação_de_pedidos.Testes
 {
@@ -10,7 +7,7 @@ namespace Teste_de_ordenação_de_pedidos.Testes
     public class MaiorEMenorTestes
     {
         [Test]
-        public void Unico_Produto_No_Carrinho()
+        public void Adicionar_Um_Unico_Produto_No_Carrinho()
         {
             var carrinho = new CarrinhoDeCompras();
             var produto = new Produto("Fogao", (decimal)250.0);
@@ -19,11 +16,11 @@ namespace Teste_de_ordenação_de_pedidos.Testes
             var algoritmo = new MaiorEMenor();
             algoritmo.Encontra(carrinho);
 
-            Assert.That(Equals(algoritmo.Menor.nome, algoritmo.Maior.nome));
+            Assert.That(Equals(algoritmo.Menor.Nome, algoritmo.Maior.Nome));
         }
 
         [Test]
-        public void Produtos_Nao_Ordernados()
+        public void Ordenar_Produtos_()
         {
             var carrinho = new CarrinhoDeCompras();
             carrinho.Adiciona(new Produto("Televisao", (decimal)1000.50));
@@ -33,13 +30,13 @@ namespace Teste_de_ordenação_de_pedidos.Testes
             var algoritmo = new MaiorEMenor();
             algoritmo.Encontra(carrinho);
 
-            Assert.That(algoritmo.Menor.nome, Is.EqualTo("Fritadeira"));
-            Assert.That(algoritmo.Maior.nome, Is.EqualTo("Televisao"));
+            Assert.That(algoritmo.Menor.Nome, Is.EqualTo("Fritadeira"));
+            Assert.That(algoritmo.Maior.Nome, Is.EqualTo("Televisao"));
         }
 
 
         [Test]
-        public void Produtos_Em_Ordem_Crescente()
+        public void Ordenar_Produtos_De_Ordem_Crescente()
         {
             var carrinho = new CarrinhoDeCompras();
             carrinho.Adiciona(new Produto("Fritadeira", (decimal)250.75));
@@ -49,12 +46,12 @@ namespace Teste_de_ordenação_de_pedidos.Testes
             var algoritmo = new MaiorEMenor();
             algoritmo.Encontra(carrinho);
 
-            Assert.That(algoritmo.Menor.nome, Is.EqualTo("Fritadeira"));
-            Assert.That(algoritmo.Maior.nome, Is.EqualTo("Televisao"));
+            Assert.That(algoritmo.Menor.Nome, Is.EqualTo("Fritadeira"));
+            Assert.That(algoritmo.Maior.Nome, Is.EqualTo("Televisao"));
         }
 
         [Test]
-        public void Produtos_Em_Ordem_Decrescente()
+        public void Ordenar_Produtos_De_Ordem_Decrescente()
         {
             var carrinho = new CarrinhoDeCompras();
             carrinho.Adiciona(new Produto("Televisao", (decimal)1000.50));
@@ -65,8 +62,8 @@ namespace Teste_de_ordenação_de_pedidos.Testes
             var algoritmo = new MaiorEMenor();
             algoritmo.Encontra(carrinho);
 
-            Assert.That(algoritmo.Menor.nome, Is.EqualTo("Fritadeira"));
-            Assert.That(algoritmo.Maior.nome, Is.EqualTo("Televisao"));
+            Assert.That(algoritmo.Menor.Nome, Is.EqualTo("Fritadeira"));
+            Assert.That(algoritmo.Maior.Nome, Is.EqualTo("Televisao"));
         }
     }
 }

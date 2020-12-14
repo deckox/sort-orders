@@ -1,0 +1,11 @@
+C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos\bin\Debug\Teste de ordenação de pedidos.exe.config
+C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos\bin\Debug\Teste de ordenação de pedidos.exe
+C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos\bin\Debug\Teste de ordenação de pedidos.pdb
+C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos\bin\Debug\nunit.framework.dll
+C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos\bin\Debug\nunit.framework.pdb
+C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos\bin\Debug\nunit.framework.xml
+C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos\obj\Debug\OrdenacaoDePedidos.csprojAssemblyReference.cache
+C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos\obj\Debug\OrdenacaoDePedidos.csproj.CoreCompileInputs.cache
+C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos\obj\Debug\OrdenacaoDePedidos.csproj.CopyComplete
+C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos\obj\Debug\Teste de ordenação de pedidos.exe
+C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos\obj\Debug\Teste de ordenação de pedidos.pdb

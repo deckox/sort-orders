@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Teste de ordenação de pedidos\Teste de ordenação de pedidos.csproj" />
+    <ProjectReference Include="..\Teste de ordenação de pedidos\OrdenacaoDePedidos.csproj" />
   </ItemGroup>
 
 </Project>
