@@ -25,9 +25,30 @@ namespace Teste_de_ordenação_de_pedidos
         {
             try
             {
-                var ordenado = carrinho.lista.OrderBy(_ => _.Preco);
-                Menor = ordenado.First();
-                Maior = ordenado.Last();
+                //Ordernação alternativa via LINQ
+
+                //var ordenado = carrinho.lista.OrderBy(_ => _.Preco);
+                //Menor = ordenado.First();
+                //Maior = ordenado.Last();
+
+
+                decimal maiorValor = 0;
+                var menorValor = carrinho.lista[0].Preco;
+
+                for (int i = 0; i < carrinho.lista.Count; i++)
+                {
+                    if (carrinho.lista[i].Preco <= menorValor)
+                    {
+                        Menor = carrinho.lista[i];
+                        menorValor = carrinho.lista[i].Preco;
+                    }
+
+                    if (carrinho.lista[i].Preco > maiorValor)
+                    {
+                        Maior = carrinho.lista[i];
+                        maiorValor = carrinho.lista[i].Preco;
+                    }
+                }
             }
             catch (Exception)
             {
@@ -46,8 +67,8 @@ namespace Teste_de_ordenação_de_pedidos
 
         public Produto(string nome, decimal preco)
         {
-            this.Nome = nome;
-            this.Preco = preco;
+            Nome = nome;
+            Preco = preco;
         }
     }
 }

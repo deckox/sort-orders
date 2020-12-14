@@ -18,3 +18,23 @@ C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordena
 C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos.Testes\obj\Debug\netcoreapp2.1\OrdenacaoDePedidos.Testes.csproj.CopyComplete
 C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos.Testes\obj\Debug\netcoreapp2.1\OrdenacaoDePedidos.Testes.dll
 C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos.Testes\obj\Debug\netcoreapp2.1\OrdenacaoDePedidos.Testes.pdb
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\bin\Debug\netcoreapp2.1\nunit.engine.core.dll
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\bin\Debug\netcoreapp2.1\OrdenacaoDePedidos.Testes.deps.json
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\bin\Debug\netcoreapp2.1\OrdenacaoDePedidos.Testes.runtimeconfig.json
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\bin\Debug\netcoreapp2.1\OrdenacaoDePedidos.Testes.runtimeconfig.dev.json
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\bin\Debug\netcoreapp2.1\OrdenacaoDePedidos.Testes.dll
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\bin\Debug\netcoreapp2.1\OrdenacaoDePedidos.Testes.pdb
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\bin\Debug\netcoreapp2.1\Teste de ordenação de pedidos.exe
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\bin\Debug\netcoreapp2.1\Teste de ordenação de pedidos.pdb
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\bin\Debug\netcoreapp2.1\Teste de ordenação de pedidos.exe.config
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\obj\Debug\netcoreapp2.1\OrdenacaoDePedidos.Testes.csprojAssemblyReference.cache
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\obj\Debug\netcoreapp2.1\OrdenacaoDePedidos.Testes.csproj.CoreCompileInputs.cache
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\obj\Debug\netcoreapp2.1\OrdenacaoDePedidos.Testes.AssemblyInfoInputs.cache
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\obj\Debug\netcoreapp2.1\OrdenacaoDePedidos.Testes.AssemblyInfo.cs
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\obj\Debug\netcoreapp2.1\OrdenacaoDePedidos.Testes.csproj.CopyComplete
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\obj\Debug\netcoreapp2.1\OrdenacaoDePedidos.Testes.dll
+C:\workspace\sort-orders\Teste de ordenação de pedidos.Testes\obj\Debug\netcoreapp2.1\OrdenacaoDePedidos.Testes.pdb
