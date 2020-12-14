@@ -1,0 +1,4 @@
+C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos.Testes\obj\Debug\netcoreapp3.1\Teste de ordenação de pedidos.Testes.csprojAssemblyReference.cache
+C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos.Testes\obj\Debug\netcoreapp3.1\Teste de ordenação de pedidos.Testes.AssemblyInfoInputs.cache
+C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos.Testes\obj\Debug\netcoreapp3.1\Teste de ordenação de pedidos.Testes.AssemblyInfo.cs
+C:\Users\akimura\Dropbox\Foursys\Teste de ordenação de pedidos\Teste de ordenação de pedidos.Testes\obj\Debug\netcoreapp3.1\Teste de ordenação de pedidos.Testes.csproj.CoreCompileInputs.cache
